@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Anassyed615
+- 👋 Hi, I’m [@Anassyed615](https://www.instagram.com/Anassyed615)
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me 9084733477
+- 📫 Contact me 9084733477
 
 <!---
 Anassyed615/Anassyed615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

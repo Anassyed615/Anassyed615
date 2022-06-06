@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anassyed615
+- 👋 Hi, I’m Anas 
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on web development
